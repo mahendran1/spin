@@ -43,7 +43,6 @@ spec:
             name: spinnaker-demo-config
 
 ---
-
 kind: Service
 apiVersion: v1
 metadata:
