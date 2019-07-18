@@ -1,6 +1,7 @@
 apiVersion: v1
 data:
-  SUCCESS_RATE: '70'
+  SUCCESS_RATE: 
+    successRate=70
 kind: ConfigMap
 metadata:
   labels:
