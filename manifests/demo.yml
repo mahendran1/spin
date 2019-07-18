@@ -5,6 +5,7 @@ metadata:
   namespace: default
 data:
   NEW_FEATURE: "true"
+  
 ---
 
 apiVersion: apps/v1beta2
