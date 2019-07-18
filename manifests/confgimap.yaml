@@ -1,0 +1,9 @@
+apiVersion: v1
+data:
+  SUCCESS_RATE: 70
+kind: ConfigMap
+metadata:
+  labels:
+    app: samplapp-canary
+  name: samplapp-config-canary
+  namespace: default
